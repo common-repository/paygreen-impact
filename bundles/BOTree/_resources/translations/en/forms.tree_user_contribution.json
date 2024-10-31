@@ -1,0 +1,12 @@
+{
+  "forms": {
+    "tree_user_contribution_config_form": {
+      "fields": {
+        "tree_user_contribution": {
+          "label": "Activate user contribution",
+          "help": "Once activated, the user will be able to add the amount of the carbon contribution to his order."
+        }
+      }
+    }
+  }   
+}

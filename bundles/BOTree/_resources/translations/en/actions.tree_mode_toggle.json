@@ -1,0 +1,12 @@
+{
+  "actions": {
+    "tree_mode": {
+      "toggle": {
+        "result": {
+          "test": "The test mode has been activated for the ClimateKit. ",
+          "prod": "The production mode has been activated for the ClimateKit. "
+        }
+      }
+    }
+  }
+}

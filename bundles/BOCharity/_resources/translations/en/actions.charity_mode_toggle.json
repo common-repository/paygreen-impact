@@ -1,0 +1,12 @@
+{
+  "actions": {
+    "charity_mode": {
+      "toggle": {
+        "result": {
+          "test": "The test mode has been activated for the CharityKit. ",
+          "prod": "The production mode has been activated for the CharityKit. "
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "blocks": {
+    "green_account_create": {
+      "title": "Créez votre compte",
+      "description1": "Pour créer votre compte ClimateKit ou CharityKit, il vous suffit de vous inscrire en cliquant sur l'un des boutons ci dessous :",
+      "climate": "Inscription ClimateKit",
+      "or": "ou",
+      "charity": "Inscription CharityKit",
+      "description2": "Notez qu'une fois votre compte ClimateKit ou CharityKit créé, vous pourrez activer le second en quelques clics sans renseigner la moindre information supplémentaire."
+    }
+  }
+}

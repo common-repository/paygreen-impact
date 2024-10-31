@@ -1,0 +1,9 @@
+{
+  "blocks": {
+    "tree_mode": {
+      "title": "Mode production",
+      "test": "Attention : en mode test, la contribution pour un projet carbone est impossible.",
+      "prod": "Les émissions de votre activité sont calculées et peuvent faire l'objet d'une contribution."
+    }
+  }
+}

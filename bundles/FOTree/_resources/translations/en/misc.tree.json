@@ -1,0 +1,11 @@
+{
+  "misc": {
+    "tree_user_contribution": {
+      "explanation": {
+        "title": "Make a contribution",
+        "message": "The contribution will be entirely donated to the climate project.",
+        "details": "With the contribution, my purchase contribute to carbon neutrality. The amount of the contribution is automatically calculated on the payment page."
+      }
+    }
+  }
+}

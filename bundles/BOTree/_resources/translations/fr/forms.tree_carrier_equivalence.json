@@ -1,0 +1,8 @@
+{
+  "forms":{
+    "tree_carrier_equivalence": {
+      "title": "Equivalence des moyen de livraions",
+      "explain": "Par défaut les émissions liées à la livraison sont calculées sur une base de véhicule utilitaire léger. Le retrait en magasin n'ajoute pas d'émissions. L'option Colissimo est à utiliser lorsque les émissions ont déjà été contribuées."
+    }
+  }
+}

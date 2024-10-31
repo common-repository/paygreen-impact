@@ -1,0 +1,20 @@
+{
+  "actions": {
+    "contribution": {
+      "cancel": {
+        "result": {
+          "failure": {
+            "title": "Contribution error",
+            "message": "An error occurred while cancelling your contribution.",
+            "link" : "Back to the checkout page"
+          },
+          "error": {
+            "title": "Contribution error",
+            "message": "An error occurred while cancelling your contribution.",
+            "link" : "Back to the checkout page"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "pages": {
+    "charity_translations": {
+      "name": "Texts and translations",
+      "title": "Translation of dynamic elements of the CharityKit",
+      "block": {
+        "title": "Block Charity",
+        "description": "The Charity block is displayed to your customers just before the choice of their means of payment: it offers them the option of rounding their basket for the benefit of an association."
+      },
+      "popin": {
+        "title": "Popin Charity",
+        "description": "The Charity pop-up opens when you click on the \"Round up the amount of my basket\" checkbox. It allows you to choose the beneficiary association and the amount of the donation."
+      }
+    }
+  }
+}

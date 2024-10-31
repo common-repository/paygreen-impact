@@ -1,0 +1,14 @@
+{
+  "actions": {
+    "green_authentication": {
+      "save": {
+        "result": {
+          "success": "Vous avez été connecté avec succès.",
+          "warning": "Veuillez activer votre espace ClimateKit ou Charitykit avant d'essayer de vous connecter.",
+          "failure": "La combinaison de vos identifiants de connexion est invalide.",
+          "invalid": "Le format de vos identifiants de connexion est invalide."
+        }
+      }
+    }
+  }
+}

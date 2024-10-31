@@ -1,0 +1,13 @@
+{
+  "blocks": {
+    "green_account_infos": {
+      "title": "My informations",
+      "form": {
+        "access_token": "Access token",
+        "client_id": "Account",
+        "username": "Username"
+      },
+      "description": "To change your information or change accounts, disconnect ClimateKit and CharityKit. "
+    }
+  }
+}

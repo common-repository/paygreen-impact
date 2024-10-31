@@ -1,0 +1,16 @@
+{
+  "pages": {
+    "charity_translations": {
+      "name": "Textes et traductions",
+      "title": "Traduction des éléments dynamiques du CharityKit",
+      "block": {
+        "title": "Bloc Charity",
+        "description": "Le bloc Charity est affiché à vos clients juste avant le choix de leur moyen de paiement : il leur offre l'option d'arrondir leur panier au profit d'une association."
+      },
+      "popin": {
+        "title": "Popin Charity",
+        "description": "La popin Charity s'ouvre au clic sur la case à cocher \"Arrondir le montant de mon panier\". Elle permet de choisir l'association bénéficiaire et le montant du don."
+      }
+    }
+  }
+}

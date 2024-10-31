@@ -1,0 +1,12 @@
+{
+  "forms": {
+    "tree_user_contribution_config_form": {
+      "fields": {
+        "tree_user_contribution": {
+          "label": "Activer la contribution utilisateur",
+          "help": "Une fois activé, l'utilisateur aura la possibilité d'ajouter le montant de la contribution carbone à sa commande."
+        }
+      }
+    }
+  }   
+}

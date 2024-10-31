@@ -1,0 +1,16 @@
+{
+  "blocks": {
+    "charity": {
+      "title": "CharityKit",
+      "text1" : "Associate your image with causes that are dear to you",
+      "text2" : "Include your customers in your company's CSR commitments",
+      "text3" : "Transform your sales site into a collection point for associations",
+      "activate" : "Activate my space",
+      "connect" : "Log in",
+      "learnmore" : "Learn more",
+      "description" : "If you have already created your CharityKit space, log in now to offer solidarity rounding to your customers.",
+      "space": "My space",
+      "space_description": "Go to your CharityKit space to form partnerships with associations."
+    }
+  }
+}

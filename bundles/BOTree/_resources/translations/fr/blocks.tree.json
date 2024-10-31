@@ -1,0 +1,19 @@
+{
+  "blocks": {
+    "tree": {
+      "title": "ClimateKit",
+      "text1" : "Mesurez et affichez l'empreinte carbone d'un panier e-commerce avec notre CarbonBot",
+      "text2" : "Suivez la courbe CO2 généré par votre activité",
+      "text3" : "Contriuez à travers le financement de projets labellisés",
+      "activate" : "Activer mon espace",
+      "connect" : "Me connecter",
+      "learnmore" : "En savoir plus",
+      "description" : "Si vous avez déjà créé votre espace ClimateKit, connectez vous dès maintenant pour calculer l'empreinte carbone de votre activité.",
+      "shipping_address": {
+        "text1": "Renseignez votre",
+        "link": "adresse d'expédition",
+        "text2": "pour permettre le calcul de votre empreinte liée a la livraison."
+      }
+    }
+  }
+}

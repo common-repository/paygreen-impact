@@ -1,0 +1,14 @@
+{
+  "actions": {
+    "green_authentication": {
+      "save": {
+        "result": {
+          "success": "You have been successfully logged in.",
+          "warning": "Please activate your ClimateKit or CharityKit space before trying to log in.",
+          "failure": "The combination of your login credentials is invalid. ",
+          "invalid": "The format of your login credentials is invalid."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "translations": {
+    "charity_block_title": {
+      "field": {
+        "label": "Block title"
+      }
+    },
+    "charity_block_message": {
+      "field": {
+        "label": "Title of the checkbox"
+      }
+    },
+    "charity_popin_title": {
+      "field": {
+        "label": "Popin title"
+      }
+    },
+    "charity_popin_subtitle": {
+      "field": {
+        "label": "Instruction for the choice of association",
+        "help": "This text is displayed above the choice of the beneficiary association of the donation."
+      }
+    },
+    "charity_popin_message": {
+      "field": {
+        "label": "Instruction for choosing the amount",
+        "help": "This text is displayed in front of the field allowing to modify the amount of the donation."
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "actions": {
+    "tree_authentication": {
+      "save": {
+        "result": {
+          "success": "You have been successfully logged in to ClimateKit.",
+          "failure": "Please activate your ClimateKit space before trying to log in.",
+          "invalid": "The format of your login credentials is invalid."
+        }
+      }
+    }
+  }
+}

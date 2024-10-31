@@ -1,0 +1,9 @@
+{
+  "blocks": {
+    "charity_mode": {
+      "title": "Mode production",
+      "test": "Attention : en mode test, les dons ne seront pas reversés à l'association choisie.",
+      "prod": "Vos clients peuvent arrondir au profit d'une association."
+    }
+  }
+}

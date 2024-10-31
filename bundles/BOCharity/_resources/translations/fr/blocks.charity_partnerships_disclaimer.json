@@ -1,0 +1,10 @@
+{
+  "blocks": {
+    "charity_partnerships_disclaimer": {
+      "title": "Gestion des associations partenaires",
+      "description1": "Vous pouvez proposer jusqu’à 3 associations à vos clients. Pour administrer vos partenariats, rendez-vous sur votre espace CharityKit > Associations partenaires : ",
+      "description2": "Apres avoir modifié vos partenariats dans votre espace CharityKit, pensez à rafraîchir la liste des associations : ",
+      "refresh": "Rafraichir"
+    }
+  }
+}

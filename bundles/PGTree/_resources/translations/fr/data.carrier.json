@@ -1,0 +1,11 @@
+{
+  "data": {
+    "carrier": {
+      "equivalence": {
+        "DEFAULT": "Défaut",
+        "SHOP": "Retrait en magasin",
+        "COLISSIMO": "Colissimo"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "forms": {
+    "carbon_bot_config_global": {
+      "fields": {
+        "tree_bot_displayed": {
+          "title": "Affichage du CarbonBot",
+          "show": "Toujours affiché aux clients",
+          "desktop": "Uniquement sur grand écran (supérieur a 768px de large)",
+          "hidden": "Masquer le CarbonBot (aucun client ne le verra)"
+        }
+      }
+    }
+  }   
+}

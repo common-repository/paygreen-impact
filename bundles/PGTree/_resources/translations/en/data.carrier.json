@@ -1,0 +1,11 @@
+{
+  "data": {
+    "carrier": {
+      "equivalence": {
+        "DEFAULT": "Default",
+        "SHOP": "Shop pick up",
+        "COLISSIMO": "Colissimo"
+      }
+    }
+  }
+}

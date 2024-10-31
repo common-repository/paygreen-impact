@@ -1,0 +1,13 @@
+{
+  "actions": {
+    "charity_authentication": {
+      "save": {
+        "result": {
+          "success": "You have been successfully logged in to CharityKit.",
+          "failure": "Please activate your CharityKit space before trying to log in.",
+          "invalid": "The format of your login credentials is invalid."
+        }
+      }
+    }
+  }
+}

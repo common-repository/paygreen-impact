@@ -1,0 +1,28 @@
+{
+  "translations": {
+    "message_carbon_offsetting": {
+      "field": {
+        "label": "Message empreinte carbone de votre commande",
+        "help": "Ce message est affiché à vos clients après un paiement validé."
+      }
+    },
+    "message_carbon_footprint": {
+      "field": {
+        "label": "Titre du CarbonBot",
+        "help": "Ce message est affiché à vos clients dans le CarbonBot pour présenter votre bilan carbone."
+      }
+    },
+    "message_find_out_more": {
+      "field": {
+        "label": "Vos engagements",
+        "help": "Ce texte sera utilisé comme présentation courte de vos engagements."
+      }
+    },
+    "message_carbon_offset": {
+      "field": {
+        "label": "Message de la compensation du CarbonBot",
+        "help": "Vous pouvez ajouter le montant de la compensation, le nom du projet compensé et le nom de la boutique avec les variables {estimatedPrice}, {project} et {shopName}."
+      }
+    }
+  }
+}

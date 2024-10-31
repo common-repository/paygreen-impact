@@ -1,0 +1,13 @@
+{
+  "actions": {
+    "charity_authentication": {
+      "save": {
+        "result": {
+          "success": "Vous avez été connecté au CharityKit avec succès.",
+          "failure": "Veuillez activer votre espace CharityKit avant d'essayer de vous connecter.",
+          "invalid": "Le format de vos identifiants de connexion est invalide."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "actions": {
+    "tree_authentication": {
+      "reset": {
+        "result": {
+          "success": "You have successfully logged out of ClimateKit. ",
+          "failure": "An error occurred while disconnecting from ClimateKit."
+        }
+      }
+    }
+  }
+}

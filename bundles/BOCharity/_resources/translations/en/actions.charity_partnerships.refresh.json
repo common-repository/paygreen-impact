@@ -1,0 +1,11 @@
+{
+  "actions": {
+    "charity_partnerships": {
+      "refresh": {
+        "result": {
+          "success": "Partnerships refreshed successfully."
+        }
+      }
+    }
+  }
+}

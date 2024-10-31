@@ -1,0 +1,11 @@
+{
+  "misc": {
+    "tree_user_contribution": {
+      "explanation": {
+        "title": "Faire une contribution",
+        "message": "La contribution sera entièrement reversé au projet climatique.",
+        "details": "Avec la contribution, votre achat contribue a la neutralité carbone. Le montant de la contribution est automatiquement calculé sur la page de paiement."
+      }
+    }
+  }
+}

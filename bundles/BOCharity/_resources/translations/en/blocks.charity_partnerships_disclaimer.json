@@ -1,0 +1,10 @@
+{
+  "blocks": {
+    "charity_partnerships_disclaimer": {
+      "title": "Management of partner associations",
+      "description1": "You can offer up to 3 associations to your customers. To manage your partnerships, go to your space CharityKit > Partner associations:",
+      "description2": "After modifying your partnerships in your CharityKit space, remember to refresh the list of associations:",
+      "refresh": "Refresh"
+    }
+  }
+}

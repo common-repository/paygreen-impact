@@ -1,0 +1,8 @@
+{
+  "forms":{
+    "tree_carrier_equivalence": {
+      "title": "Delivery methods equivalence",
+      "explain": "By default, emissions related to delivery are calculated on a light commercial vehicle basis. In-store pickup does not add emissions. The Colissimo option is to be used when emissions have already been contributed."
+    }
+  }
+}

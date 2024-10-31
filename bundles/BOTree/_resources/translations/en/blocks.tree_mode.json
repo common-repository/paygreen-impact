@@ -1,0 +1,9 @@
+{
+  "blocks": {
+    "tree_mode": {
+      "title": "Production mode",
+      "test": "Please note: in test mode, the contribution for a carbon project is impossible.",
+      "prod": "The emissions of your activity are calculated and may be the subject of a contribution."
+    }
+  }
+}

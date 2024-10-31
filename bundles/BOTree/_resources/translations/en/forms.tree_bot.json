@@ -1,0 +1,22 @@
+{
+  "forms": {
+    "tree_bot": {
+      "fields": {
+        "tree_bot_color": {
+          "label": "Main color"
+        },
+        "tree_bot_side": {
+          "label": "Location on screen",
+          "choices": {
+            "LEFT": "At the bottom left",
+            "RIGHT": "At the bottom right"
+          }
+        },
+        "tree_details_url": {
+          "label": "Your commitments page",
+          "help": "Optional: if filled in, a 'Find out more' link will be displayed in the CarbonBot and will allow your customers to access a page of your choice (for example to develop your commitments)."
+        }
+      }
+    }
+  }   
+}

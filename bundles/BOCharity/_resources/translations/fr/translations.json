@@ -1,0 +1,31 @@
+{
+  "translations": {
+    "charity_block_title": {
+      "field": {
+        "label": "Titre du bloc"
+      }
+    },
+    "charity_block_message": {
+      "field": {
+        "label": "Intitulé de la case à cocher"
+      }
+    },
+    "charity_popin_title": {
+      "field": {
+        "label": "Titre de la popin"
+      }
+    },
+    "charity_popin_subtitle": {
+      "field": {
+        "label": "Instruction pour le choix de l'association",
+        "help": "Ce texte est affiché au-dessus du choix de l'association bénéficiaire du don."
+      }
+    },
+    "charity_popin_message": {
+      "field": {
+        "label": "Instruction pour le choix du montant",
+        "help": "Ce texte est affiché devant le champ permettant de modifier le montant du don."
+      }
+    }
+  }
+}

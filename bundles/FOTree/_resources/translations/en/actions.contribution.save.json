@@ -1,0 +1,20 @@
+{
+  "actions": {
+    "contribution": {
+      "save": {
+        "result": {
+          "failure": {
+            "title": "Contribution error",
+            "message": "An error occurred while processing your contribution.",
+            "link" : "Back to the checkout page"
+          },
+          "error": {
+            "title": "Contribution error",
+            "message": "An error occurred while processing your contribution.",
+            "link" : "Back to the checkout page"
+          }
+        }
+      }
+    }
+  }
+}

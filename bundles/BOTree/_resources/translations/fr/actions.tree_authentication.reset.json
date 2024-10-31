@@ -1,0 +1,12 @@
+{
+  "actions": {
+    "tree_authentication": {
+      "reset": {
+        "result": {
+          "success": "Votre déconnexion a ClimateKit a été réalisé avec succès.",
+          "failure": "Une erreur s'est produite lors de la déconnexion a ClimateKit."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "actions": {
+    "tree_authentication": {
+      "save": {
+        "result": {
+          "success": "Vous avez été connecté au ClimateKit avec succès.",
+          "failure": "Veuillez activer votre espace ClimateKit avant d'essayer de vous connecter.",
+          "invalid": "Le format de vos identifiants de connexion est invalide."
+        }
+      }
+    }
+  }
+}

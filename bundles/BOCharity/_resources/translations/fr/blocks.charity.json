@@ -1,0 +1,16 @@
+{
+  "blocks": {
+    "charity": {
+      "title": "CharityKit",
+      "text1" : "Associez votre image à des causes qui vous sont chères",
+      "text2" : "Incluez vos clients dans les engagements RSE de votre entreprise",
+      "text3" : "Transformez votre site de vente en lieu de collecte pour des associations",
+      "activate" : "Activer mon espace",
+      "connect" : "Me connecter",
+      "learnmore" : "En savoir plus",
+      "description" : "Si vous avez déjà créé votre espace CharityKit, connectez vous dès maintenant pour proposer l'Arrondi solidaire à vos clients.",
+      "space": "Mon espace",
+      "space_description": "Rendez-vous sur votre espace CharityKit pour nouer des partenariats avec des assocations."
+    }
+  }
+}

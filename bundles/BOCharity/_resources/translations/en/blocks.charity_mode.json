@@ -1,0 +1,9 @@
+{
+  "blocks": {
+    "charity_mode": {
+      "title": "Production mode",
+      "test": "Please note: in test mode, donations will not be returned to the chosen association.",
+      "prod": "Your customers can round for the benefit of an association."
+    }
+  }
+}
